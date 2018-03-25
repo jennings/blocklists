@@ -1,0 +1,201 @@
+# Localized & regional domains
+||google.com		# Worldwide (Original for the United States)	^
+||google.ac		# Ascension Island	^
+||google.ad		# Andorra	^
+||google.ae		# United Arab Emirates	^
+||google.com.af	# Afghanistan	^
+||google.com.ag	# Antigua and Barbuda	^
+||google.com.ai	# Anguilla	^
+||google.al		# Albania	^
+||google.am		# Armenia	^
+||google.co.ao	# Angola	^
+||google.com.ar	# Argentina	^
+||google.as		# American Samoa	^
+||google.at		# Austria	^
+||google.com.au	# Australia	^
+||google.az		# Azerbaijan	^
+||google.ba		# Bosnia and Herzegovina	^
+||google.com.bd	# Bangladesh	^
+||google.be		# Belgium	^
+||google.bf		# Burkina Faso	^
+||google.bg		# Bulgaria	^
+||google.com.bh	# Bahrain	^
+||google.bi		# Burundi	^
+||google.bj		# Benin	^
+||google.com.bn	# Brunei	^
+||google.com.bo	# Bolivia	^
+||google.com.br	# Brazil	^
+||google.bs		# Bahamas	^
+||google.bt		# Bhutan	^
+||google.co.bw	# Botswana	^
+||google.by		# Belarus^
+||google.com.bz	# Belize	^
+||google.ca		# Canada	^
+||google.com.kh	# Cambodia	^
+||google.cc		# Cocos (Keeling) Islands	^
+||google.cd		# Democratic Republic of the Congo	^
+||google.cf		# Central African Republic	^
+||google.cat		# Catalonia Catalan Countries	^
+||google.cg		# Republic of the Congo	^
+||google.ch		# Switzerland	^
+||google.ci		# Ivory Coast	^
+||google.co.ck	# Cook Islands	^
+||google.cl		# Chile	^
+||google.cm		# Cameroon	^
+||google.cn		# China	^
+||g.cn			# China	^
+||google.com.co	# Colombia	^
+||google.co.cr	# Costa Rica	^
+||google.com.cu	# Cuba	^
+||google.cv		# Cape Verde	^
+||google.com.cy	# Cyprus	^
+||google.cz		# Czech Republic	^
+||google.de		# Germany	^
+||google.dj		# Djibouti	^
+||google.dk		# Denmark	^
+||google.dm		# Dominica	^
+||google.com.do	# Dominican Republic	^
+||google.dz		# Algeria	^
+||google.com.ec	# Ecuador	^
+||google.ee		# Estonia	^
+||google.com.eg	# Egypt	^
+||google.es		# Spain	^
+||google.com.et	# Ethiopia	^
+||google.fi		# Finland	^
+||google.com.fj	# Fiji	^
+||google.fm		# Federated States of Micronesia	^
+||google.fr		# France	^
+||google.ga		# Gabon	^
+||google.ge		# Georgia	^
+||google.gf		# French Guiana	^
+||google.gg		# Guernsey	^
+||google.com.gh	# Ghana	^
+||google.com.gi	# Gibraltar	^
+||google.gl		# Greenland	^
+||google.gm		# Gambia	^
+||google.gp		# Guadeloupe	^
+||google.gr		# Greece	^
+||google.com.gt	# Guatemala	^
+||google.gy		# Guyana	^
+||google.com.hk	# Hong Kong	^
+||google.hn		# Honduras	^
+||google.hr		# Croatia	^
+||google.ht		# Haiti	^
+||google.hu		# Hungary	^
+||google.co.id	# Indonesia	^
+||google.iq		# Iraq	^
+||google.ie		# Ireland	^
+||google.co.il	# Israel	^
+||google.im		# Isle of Man	^
+||google.co.in	# India	^
+||google.io		# British Indian Ocean Territory	^
+||google.is		# Iceland	^
+||google.it		# Italy	^
+||google.je		# Jersey	^
+||google.com.jm	# Jamaica	^
+||google.jo		# Jordan	^
+||google.co.jp	# Japan	^
+||google.co.ke	# Kenya	^
+||google.ki		# Kiribati	^
+||google.kg		# Kyrgyzstan	^
+||google.co.kr	# South Korea	^
+||google.com.kw	# Kuwait	^
+||google.kz		# Kazakhstan	^
+||google.la		# Laos	^
+||google.com.lb	# Lebanon	^
+||google.com.lc	# Saint Lucia	^
+||google.li		# Liechtenstein	^
+||google.lk		# Sri Lanka	^
+||google.co.ls	# Lesotho	^
+||google.lt		# Lithuania	^
+||google.lu		# Luxembourg	^
+||google.lv		# Latvia	^
+||google.com.ly	# Libya	^
+||google.co.ma	# Morocco	^
+||google.md		# Moldova	^
+||google.me		# Montenegro	^
+||google.mg		# Madagascar	^
+||google.mk		# Macedonia	^
+||google.ml		# Mali	^
+||google.com.mm	# Myanmar	^
+||google.mn		# Mongolia	^
+||google.ms		# Montserrat	^
+||google.com.mt	# Malta	^
+||google.mu		# Mauritius	^
+||google.mv		# Maldives	^
+||google.mw		# Malawi	^
+||google.com.mx	# Mexico	^
+||google.com.my	# Malaysia	^
+||google.co.mz	# Mozambique	^
+||google.com.na	# Namibia	^
+||google.ne		# Niger	^
+||google.com.nf	# Norfolk Island	^
+||google.com.ng	# Nigeria	^
+||google.com.ni	# Nicaragua	^
+||google.nl		# Netherlands	^
+||google.no		# Norway	^
+||google.com.np	# Nepal	^
+||google.nr		# Nauru	^
+||google.nu		# Niue	^
+||google.co.nz	# New Zealand	^
+||google.com.om	# Oman	^
+||google.com.pk	# Pakistan	^
+||google.com.pa	# Panama	^
+||google.com.pe	# Peru	^
+||google.com.ph	# Philippines	^
+||google.pl		# Poland	^
+||google.com.pg	# Papua New Guinea	^
+||google.pn		# Pitcairn Islands	^
+||google.com.pr	# Puerto Rico	^
+||google.ps		# Palestine	^
+||google.pt		# Portugal	^
+||google.com.py	# Paraguay	^
+||google.com.qa	# Qatar	^
+||google.ro		# Romania	^
+||google.rs		# Serbia	^
+||google.ru		# Russia	^
+||google.rw		# Rwanda	^
+||google.com.sa	# Saudi Arabia	^
+||google.com.sb	# Solomon Islands	^
+||google.sc		# Seychelles	^
+||google.se		# Sweden	^
+||google.com.sg	# Singapore	^
+||google.sh		# Saint Helena, Ascension and Tristan da Cunha	^
+||google.si		# Slovenia	^
+||google.sk		# Slovakia	^
+||google.com.sl	# Sierra Leone	^
+||google.sn		# Senegal	^
+||google.sm		# San Marino	^
+||google.so		# Somalia	^
+||google.st		# São Tomé and Príncipe	^
+||google.sr		# Suriname	^
+||google.com.sv	# El Salvador	^
+||google.td		# Chad	^
+||google.tg		# Togo	^
+||google.co.th	# Thailand	^
+||google.com.tj	# Tajikistan	^
+||google.tk		# Tokelau	^
+||google.tl		# Timor-Leste	^
+||google.tm		# Turkmenistan	^
+||google.to		# Tonga	^
+||google.tn		# Tunisia	^
+||google.com.tr	# Turkey	^
+||google.tt		# Trinidad and Tobago	^
+||google.com.tw	# Taiwan	^
+||google.co.tz	# Tanzania	^
+||google.com.ua	# Ukraine	^
+||google.co.ug	# Uganda	^
+||google.co.uk	# United Kingdom	^
+||google.com		# United States	^
+||google.com.uy	# Uruguay	^
+||google.co.uz	# Uzbekistan	^
+||google.com.vc	# Saint Vincent and the Grenadines	^
+||google.co.ve	# Venezuela	^
+||google.vg		# British Virgin Islands	^
+||google.co.vi	# United States Virgin Islands	^
+||google.com.vn	# Vietnam	^
+||google.vu		# Vanuatu	^
+||google.ws		# Samoa	^
+||google.co.za	# South Africa	^
+||google.co.zm	# Zambia	^
+||google.co.zw	# Zimbabwe^
