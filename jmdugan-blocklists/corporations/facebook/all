@@ -4,13 +4,13 @@
 #
 # Your hosts file Location:
 # Linux, Unix and Mac OS X  -> /etc/hosts
-# Windows XP, Vista and Windows 7 ->  C:\WINDOWS\system32\drivers\etc\hosts
+# Windows XP, Vista, Windows 7, 8.0, 8.1, 10 ->  C:\WINDOWS\system32\drivers\etc\hosts
 # Windows 2000  -> C:\WINNT\system32\drivers\etc\hosts
 # Windows 98/ME ->  C:\WINDOWS\hosts 
-# 
+#
 # You can edit the hosts file with any text editor
 #
-# On Windows 7, the default AV security scan will try to remove the
+# On Windows 7 and higher, the default AV security scan will try to remove the
 # facebook.com entry; you'll need to add an exception to tell the OS
 # to keep the block listing in the hosts file and not to remove it
 #
@@ -335,6 +335,8 @@
 ||webdav.facebook.com^
 ||z-m.c10r.facebook.com^
 ||z-m.facebook.com^
+||nl-nl.facebook.com^
+||pl-pl.facebook.com^
 ||edge-sonar-shv-01-ams2.fbcdn.net^
 ||edge-sonar-shv-01-ams3.fbcdn.net^
 ||edge-sonar-shv-01-ash5.fbcdn.net^
@@ -499,6 +501,7 @@
 ||scontent-vie.xx.fbcdn.net^
 ||scontent.fsjc1-2.fna.fbcdn.net^
 ||scontent.fsnc1-1.fna.fbcdn.net^
+||scontent.fams1-2.fna.fbcdn.net^
 ||scontent.xx.fbcdn.net^
 ||sonar-iad.xx.fbcdn.net^
 ||sphotos-a-ams.xx.fbcdn.net^
@@ -910,6 +913,8 @@
 ||fbcdn-profile-a.akamaihd.net^
 ||h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
+||messenger.com^
+||m.me^
 ||fb.com^
 ||newsroom.fb.com^
 ||investor.fb.com^
@@ -1487,3 +1492,7 @@
 ||z-p3-video.fpfb1-1.fna.fbcdn.net^
 ||z-p3-video.fsea1-1.fna.fbcdn.net^
 ||z-p3-video-vie1-1.xx.fbcdn.net^
+||touch.facebook.com^
+||scontent.fmex5-1.fna.fbcdn.net^
+||external.fmex5-1.fna.fbcdn.net^
+||es-la.facebook.com^

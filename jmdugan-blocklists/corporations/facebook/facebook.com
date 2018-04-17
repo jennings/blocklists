@@ -312,3 +312,5 @@
 ||z-m.c10r.facebook.com^
 ||z-m.facebook.com^
 ||beta.facebook.com^
+||pl-pl.facebook.com^
+||nl-nl.facebook.com^

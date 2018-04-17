@@ -1,0 +1,14 @@
+||tiles.services.mozilla.com^
+||experiments.mozilla.org^
+||telemetry.mozilla.org^
+||incoming.telemetry.mozilla.org^
+||telemetry-experiment.cdn.mozilla.net^
+||search.services.mozilla.com^
+||shavar.services.mozilla.com^
+||onyx_tiles.stage.mozaws.net^
+||crash-stats.mozilla.com^
+||fhr.cdn.mozilla.net^
+||blocked.cdn.mozilla.net^
+||tbpl.mozilla.org^
+||shavar.services.mozilla.com^
+#0.0.0.0 detectportal.firefox.com
