@@ -314,3 +314,4 @@
 ||beta.facebook.com^
 ||pl-pl.facebook.com^
 ||nl-nl.facebook.com^
+||developers.facebook.com^
