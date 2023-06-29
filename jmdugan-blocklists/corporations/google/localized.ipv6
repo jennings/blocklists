@@ -1,206 +1,206 @@
-::1 g.cn
-::1 google.ac
-::1 google.ad
-::1 google.ae
-::1 google.al
-::1 google.am
-::1 google.as
-::1 google.at
-::1 google.az
-::1 google.ba
-::1 google.be
-::1 google.bf
-::1 google.bg
-::1 google.bi
-::1 google.bj
-::1 google.bs
-::1 google.bt
-::1 google.by
-::1 google.ca
-::1 google.cat
-::1 google.cc
-::1 google.cd
-::1 google.cf
-::1 google.cg
-::1 google.ch
-::1 google.ci
-::1 google.cl
-::1 google.cm
-::1 google.cn
-::1 google.co.ao
-::1 google.co.bw
-::1 google.co.ck
-::1 google.co.cr
-::1 google.co.id
-::1 google.co.il
-::1 google.co.in
-::1 google.co.jp
-::1 google.co.ke
-::1 google.co.kr
-::1 google.co.ls
-::1 google.co.ma
-::1 google.co.mz
-::1 google.co.nz
-::1 google.co.th
-::1 google.co.tz
-::1 google.co.ug
-::1 google.co.uk
-::1 google.co.uz
-::1 google.co.ve
-::1 google.co.vi
-::1 google.co.za
-::1 google.co.zm
-::1 google.co.zw
-::1 google.com
-::1 google.com
-::1 google.com.af
-::1 google.com.ag
-::1 google.com.ai
-::1 google.com.ar
-::1 google.com.au
-::1 google.com.bd
-::1 google.com.bh
-::1 google.com.bn
-::1 google.com.bo
-::1 google.com.br
-::1 google.com.bz
-::1 google.com.co
-::1 google.com.cu
-::1 google.com.cy
-::1 google.com.do
-::1 google.com.ec
-::1 google.com.eg
-::1 google.com.et
-::1 google.com.fj
-::1 google.com.gh
-::1 google.com.gi
-::1 google.com.gt
-::1 google.com.hk
-::1 google.com.jm
-::1 google.com.kh
-::1 google.com.kw
-::1 google.com.lb
-::1 google.com.lc
-::1 google.com.ly
-::1 google.com.mm
-::1 google.com.mt
-::1 google.com.mx
-::1 google.com.my
-::1 google.com.na
-::1 google.com.nf
-::1 google.com.ng
-::1 google.com.ni
-::1 google.com.np
-::1 google.com.om
-::1 google.com.pa
-::1 google.com.pe
-::1 google.com.pg
-::1 google.com.ph
-::1 google.com.pk
-::1 google.com.pr
-::1 google.com.py
-::1 google.com.qa
-::1 google.com.sa
-::1 google.com.sb
-::1 google.com.sg
-::1 google.com.sl
-::1 google.com.sv
-::1 google.com.tj
-::1 google.com.tr
-::1 google.com.tw
-::1 google.com.ua
-::1 google.com.uy
-::1 google.com.vc
-::1 google.com.vn
-::1 google.cv
-::1 google.cz
-::1 google.de
-::1 google.dj
-::1 google.dk
-::1 google.dm
-::1 google.dz
-::1 google.ee
-::1 google.es
-::1 google.fi
-::1 google.fm
-::1 google.fr
-::1 google.ga
-::1 google.ge
-::1 google.gf
-::1 google.gg
-::1 google.gl
-::1 google.gm
-::1 google.gp
-::1 google.gr
-::1 google.gy
-::1 google.hn
-::1 google.hr
-::1 google.ht
-::1 google.hu
-::1 google.ie
-::1 google.im
-::1 google.io
-::1 google.iq
-::1 google.is
-::1 google.it
-::1 google.je
-::1 google.jo
-::1 google.kg
-::1 google.ki
-::1 google.kz
-::1 google.la
-::1 google.li
-::1 google.lk
-::1 google.lt
-::1 google.lu
-::1 google.lv
-::1 google.md
-::1 google.me
-::1 google.mg
-::1 google.mk
-::1 google.ml
-::1 google.mn
-::1 google.ms
-::1 google.mu
-::1 google.mv
-::1 google.mw
-::1 google.ne
-::1 google.nl
-::1 google.no
-::1 google.nr
-::1 google.nu
-::1 google.pl
-::1 google.pn
-::1 google.ps
-::1 google.pt
-::1 google.ro
-::1 google.rs
-::1 google.ru
-::1 google.rw
-::1 google.sc
-::1 google.se
-::1 google.sh
-::1 google.si
-::1 google.sk
-::1 google.sm
-::1 google.sn
-::1 google.so
-::1 google.sr
-::1 google.st
-::1 google.td
-::1 google.tg
-::1 google.tk
-::1 google.tl
-::1 google.tm
-::1 google.tn
-::1 google.to
-::1 google.tt
-::1 google.vg
-::1 google.vu
-::1 google.ws
-::1 youtube.be
-::1 youtube.co.uk
-::1 youtube.de
-::1 youtube.fr
-::1 youtube.nl
-::1 youtube.pl
+||g.cn^
+||google.ac^
+||google.ad^
+||google.ae^
+||google.al^
+||google.am^
+||google.as^
+||google.at^
+||google.az^
+||google.ba^
+||google.be^
+||google.bf^
+||google.bg^
+||google.bi^
+||google.bj^
+||google.bs^
+||google.bt^
+||google.by^
+||google.ca^
+||google.cat^
+||google.cc^
+||google.cd^
+||google.cf^
+||google.cg^
+||google.ch^
+||google.ci^
+||google.cl^
+||google.cm^
+||google.cn^
+||google.co.ao^
+||google.co.bw^
+||google.co.ck^
+||google.co.cr^
+||google.co.id^
+||google.co.il^
+||google.co.in^
+||google.co.jp^
+||google.co.ke^
+||google.co.kr^
+||google.co.ls^
+||google.co.ma^
+||google.co.mz^
+||google.co.nz^
+||google.co.th^
+||google.co.tz^
+||google.co.ug^
+||google.co.uk^
+||google.co.uz^
+||google.co.ve^
+||google.co.vi^
+||google.co.za^
+||google.co.zm^
+||google.co.zw^
+||google.com^
+||google.com^
+||google.com.af^
+||google.com.ag^
+||google.com.ai^
+||google.com.ar^
+||google.com.au^
+||google.com.bd^
+||google.com.bh^
+||google.com.bn^
+||google.com.bo^
+||google.com.br^
+||google.com.bz^
+||google.com.co^
+||google.com.cu^
+||google.com.cy^
+||google.com.do^
+||google.com.ec^
+||google.com.eg^
+||google.com.et^
+||google.com.fj^
+||google.com.gh^
+||google.com.gi^
+||google.com.gt^
+||google.com.hk^
+||google.com.jm^
+||google.com.kh^
+||google.com.kw^
+||google.com.lb^
+||google.com.lc^
+||google.com.ly^
+||google.com.mm^
+||google.com.mt^
+||google.com.mx^
+||google.com.my^
+||google.com.na^
+||google.com.nf^
+||google.com.ng^
+||google.com.ni^
+||google.com.np^
+||google.com.om^
+||google.com.pa^
+||google.com.pe^
+||google.com.pg^
+||google.com.ph^
+||google.com.pk^
+||google.com.pr^
+||google.com.py^
+||google.com.qa^
+||google.com.sa^
+||google.com.sb^
+||google.com.sg^
+||google.com.sl^
+||google.com.sv^
+||google.com.tj^
+||google.com.tr^
+||google.com.tw^
+||google.com.ua^
+||google.com.uy^
+||google.com.vc^
+||google.com.vn^
+||google.cv^
+||google.cz^
+||google.de^
+||google.dj^
+||google.dk^
+||google.dm^
+||google.dz^
+||google.ee^
+||google.es^
+||google.fi^
+||google.fm^
+||google.fr^
+||google.ga^
+||google.ge^
+||google.gf^
+||google.gg^
+||google.gl^
+||google.gm^
+||google.gp^
+||google.gr^
+||google.gy^
+||google.hn^
+||google.hr^
+||google.ht^
+||google.hu^
+||google.ie^
+||google.im^
+||google.io^
+||google.iq^
+||google.is^
+||google.it^
+||google.je^
+||google.jo^
+||google.kg^
+||google.ki^
+||google.kz^
+||google.la^
+||google.li^
+||google.lk^
+||google.lt^
+||google.lu^
+||google.lv^
+||google.md^
+||google.me^
+||google.mg^
+||google.mk^
+||google.ml^
+||google.mn^
+||google.ms^
+||google.mu^
+||google.mv^
+||google.mw^
+||google.ne^
+||google.nl^
+||google.no^
+||google.nr^
+||google.nu^
+||google.pl^
+||google.pn^
+||google.ps^
+||google.pt^
+||google.ro^
+||google.rs^
+||google.ru^
+||google.rw^
+||google.sc^
+||google.se^
+||google.sh^
+||google.si^
+||google.sk^
+||google.sm^
+||google.sn^
+||google.so^
+||google.sr^
+||google.st^
+||google.td^
+||google.tg^
+||google.tk^
+||google.tl^
+||google.tm^
+||google.tn^
+||google.to^
+||google.tt^
+||google.vg^
+||google.vu^
+||google.ws^
+||youtube.be^
+||youtube.co.uk^
+||youtube.de^
+||youtube.fr^
+||youtube.nl^
+||youtube.pl^

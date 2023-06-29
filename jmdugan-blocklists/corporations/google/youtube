@@ -1,35 +1,35 @@
-0.0.0.0 accounts.youtube.com
-0.0.0.0 admin-dev.youtube.com
-0.0.0.0 admin.youtube.com
-0.0.0.0 ads.youtube.com
-0.0.0.0 au.youtube.com
-0.0.0.0 br.youtube.com
-0.0.0.0 cms.youtube.com
-0.0.0.0 creatoracademy.youtube.com
-0.0.0.0 de.youtube.com
-0.0.0.0 director.youtube.com
-0.0.0.0 es.youtube.com
-0.0.0.0 fr.youtube.com
-0.0.0.0 gaming.youtube.com
-0.0.0.0 gr.youtube.com
-0.0.0.0 hk.youtube.com
-0.0.0.0 ie.youtube.com
-0.0.0.0 il.youtube.com
-0.0.0.0 img.youtube.com
-0.0.0.0 in.youtube.com
-0.0.0.0 it.youtube.com
-0.0.0.0 jp.youtube.com
-0.0.0.0 kids.youtube.com
-0.0.0.0 m.youtube.com
-0.0.0.0 music.youtube.com
-0.0.0.0 mx.youtube.com
-0.0.0.0 news.youtube.com
-0.0.0.0 nl.youtube.com
-0.0.0.0 nz.youtube.com
-0.0.0.0 p.youtube.com
-0.0.0.0 s.youtube.com
-0.0.0.0 tv.youtube.com
-0.0.0.0 tw.youtube.com
-0.0.0.0 uk.youtube.com
-0.0.0.0 upload.youtube.com
-0.0.0.0 youtube.com
+||accounts.youtube.com^
+||admin-dev.youtube.com^
+||admin.youtube.com^
+||ads.youtube.com^
+||au.youtube.com^
+||br.youtube.com^
+||cms.youtube.com^
+||creatoracademy.youtube.com^
+||de.youtube.com^
+||director.youtube.com^
+||es.youtube.com^
+||fr.youtube.com^
+||gaming.youtube.com^
+||gr.youtube.com^
+||hk.youtube.com^
+||ie.youtube.com^
+||il.youtube.com^
+||img.youtube.com^
+||in.youtube.com^
+||it.youtube.com^
+||jp.youtube.com^
+||kids.youtube.com^
+||m.youtube.com^
+||music.youtube.com^
+||mx.youtube.com^
+||news.youtube.com^
+||nl.youtube.com^
+||nz.youtube.com^
+||p.youtube.com^
+||s.youtube.com^
+||tv.youtube.com^
+||tw.youtube.com^
+||uk.youtube.com^
+||upload.youtube.com^
+||youtube.com^

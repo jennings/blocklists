@@ -1,52 +1,52 @@
-0.0.0.0 ajax.cloudflare.com
-0.0.0.0 api.cloudflare.com
-0.0.0.0 beth.ns.cloudflare.com
-0.0.0.0 blog.cloudflare.com
-0.0.0.0 bob.ns.cloudflare.com
-0.0.0.0 cdnjs.cloudflare.com
-0.0.0.0 cf-173-245-53-191.cloudflare.com
-0.0.0.0 cf-173-245-56-224.cloudflare.com
-0.0.0.0 cheryl.ns.cloudflare.com
-0.0.0.0 clark.ns.cloudflare.com
-0.0.0.0 dahlia.ns.cloudflare.com
-0.0.0.0 dave.ns.cloudflare.com
-0.0.0.0 dawn.ns.cloudflare.com
-0.0.0.0 dina.ns.cloudflare.com
-0.0.0.0 dns2.cloudflare.com
-0.0.0.0 dns3.cloudflare.com
-0.0.0.0 donald.ns.cloudflare.com
-0.0.0.0 duke.ns.cloudflare.com
-0.0.0.0 ed.ns.cloudflare.com
-0.0.0.0 elsa.ns.cloudflare.com
-0.0.0.0 eric.ns.cloudflare.com
-0.0.0.0 greg.ns.cloudflare.com
-0.0.0.0 hank.ns.cloudflare.com
-0.0.0.0 ian.ns.cloudflare.com
-0.0.0.0 isla.ns.cloudflare.com
-0.0.0.0 ivan.ns.cloudflare.com
-0.0.0.0 jake.ns.cloudflare.com
-0.0.0.0 jeff.ns.cloudflare.com
-0.0.0.0 jerry.ns.cloudflare.com
-0.0.0.0 karina.ns.cloudflare.com
-0.0.0.0 kate.ns.cloudflare.com
-0.0.0.0 kim.ns.cloudflare.com
-0.0.0.0 lee.ns.cloudflare.com
-0.0.0.0 lily.ns.cloudflare.com
-0.0.0.0 linda.ns.cloudflare.com
-0.0.0.0 lloyd.ns.cloudflare.com
-0.0.0.0 lola.ns.cloudflare.com
-0.0.0.0 maria.ns.cloudflare.com
-0.0.0.0 mark.ns.cloudflare.com
-0.0.0.0 ns.cloudflare.com
-0.0.0.0 ns3.cloudflare.com
-0.0.0.0 ns5.cloudflare.com
-0.0.0.0 olga.ns.cloudflare.com
-0.0.0.0 pam.ns.cloudflare.com
-0.0.0.0 rob.ns.cloudflare.com
-0.0.0.0 sara.ns.cloudflare.com
-0.0.0.0 support.cloudflare.com
-0.0.0.0 uma.ns.cloudflare.com
-0.0.0.0 whois.cloudflare.com
-0.0.0.0 will.ns.cloudflare.com
-0.0.0.0 www.cloudflare.com
-0.0.0.0 zara.ns.cloudflare.com
+||ajax.cloudflare.com^
+||api.cloudflare.com^
+||beth.ns.cloudflare.com^
+||blog.cloudflare.com^
+||bob.ns.cloudflare.com^
+||cdnjs.cloudflare.com^
+||cf-173-245-53-191.cloudflare.com^
+||cf-173-245-56-224.cloudflare.com^
+||cheryl.ns.cloudflare.com^
+||clark.ns.cloudflare.com^
+||dahlia.ns.cloudflare.com^
+||dave.ns.cloudflare.com^
+||dawn.ns.cloudflare.com^
+||dina.ns.cloudflare.com^
+||dns2.cloudflare.com^
+||dns3.cloudflare.com^
+||donald.ns.cloudflare.com^
+||duke.ns.cloudflare.com^
+||ed.ns.cloudflare.com^
+||elsa.ns.cloudflare.com^
+||eric.ns.cloudflare.com^
+||greg.ns.cloudflare.com^
+||hank.ns.cloudflare.com^
+||ian.ns.cloudflare.com^
+||isla.ns.cloudflare.com^
+||ivan.ns.cloudflare.com^
+||jake.ns.cloudflare.com^
+||jeff.ns.cloudflare.com^
+||jerry.ns.cloudflare.com^
+||karina.ns.cloudflare.com^
+||kate.ns.cloudflare.com^
+||kim.ns.cloudflare.com^
+||lee.ns.cloudflare.com^
+||lily.ns.cloudflare.com^
+||linda.ns.cloudflare.com^
+||lloyd.ns.cloudflare.com^
+||lola.ns.cloudflare.com^
+||maria.ns.cloudflare.com^
+||mark.ns.cloudflare.com^
+||ns.cloudflare.com^
+||ns3.cloudflare.com^
+||ns5.cloudflare.com^
+||olga.ns.cloudflare.com^
+||pam.ns.cloudflare.com^
+||rob.ns.cloudflare.com^
+||sara.ns.cloudflare.com^
+||support.cloudflare.com^
+||uma.ns.cloudflare.com^
+||whois.cloudflare.com^
+||will.ns.cloudflare.com^
+||www.cloudflare.com^
+||zara.ns.cloudflare.com^
