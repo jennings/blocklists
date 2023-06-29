@@ -1,10 +1,6 @@
 name: Makefile CI
 
-on:
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+on: {}
 
 jobs:
   build:
@@ -13,9 +9,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-
-    - name: configure
-      run: ./configure
 
     - name: Install dependencies
       run: make
