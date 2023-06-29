@@ -2,9 +2,10 @@ name: Build blocklists
 
 on:
   workflow_dispatch:
-  branches:
-    - trunk
-    - master
+  push:
+    branches:
+      - trunk
+      - master
 
 jobs:
   build:
