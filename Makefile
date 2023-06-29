@@ -1,3 +1,5 @@
+SHELL := /bin/bash
+
 REPO := https://github.com/jmdugan/blocklists/archive/master.tar.gz
 OUTDIR := jmdugan-blocklists
 
