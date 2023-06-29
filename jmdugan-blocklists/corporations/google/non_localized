@@ -1,77 +1,100 @@
-#URL shortening & Non-localized URLs
-||admob.com				# AdMob^
-||adsense.com				# AdSense^
-||adwords.com				# AdWords^
-||android.com				# Android^
-||blogger.com				# Blogger^
-||blogspot.com			# Blogger^
-||chromium.org			# Chromium^
-||chrome.com				# Google Chrome^
-||chromebook.com			# Chromebook^
-||cobrasearch.com			# Google^
-||com.google				# elgooG^
-||feedburner.com			# FeedBurner^
-||doubleclick.com			# DoubleClick^
-||igoogle.com				# iGoogle^
-||foofle.com				# Google^
-||froogle.com				# Froogle^
-||googleanalytics.com		# Google Analytics^
-||google-analytics.com	# Google Analytics^
-||googletagmanager.com	# Google Analytics^
-||googlecode.com			# Google Code^
-||googlesource.com		# Google Developer Source^
-||googledrive.com			# Google Drive^
-||googlearth.com			# Google Earth^
-||googleearth.com			# Google Earth^
-||googlemaps.com			# Google Maps^
-||googlepagecreator.com	# Google Page Creator^
-||googlescholar.com		# Google Scholar^
-||gmail.com				# Gmail^
-||googlemail.com			# Gmail^
-||keyhole.com				# Keyhole^
-||madewithcode.com		# Made with Code^
-||panoramio.com			# Panoramio^
-||picasa.com				# Picasa^
-||sketchup.com			# SketchUp^
-||urchin.com				# Google Analytics^
-||waze.com				# Waze^
-||youtube.com				# YouTube^
-||youtu.be				# YouTube^
-||yt.be					# YouTube^
-||ytimg.com				# YouTube^
-||youtubeeducation.com	# YouTube^
-||youtube-nocookie.com	# YouTube^
-||like.com				# Google^
-||google.org				# Google.org^
-||google.net				# Google^
-||466453.com				# Google^
-||gooogle.com				# Google^
-||gogle.com				# Google^
-||ggoogle.com				# Google^
-||gogole.com				# Google^
-||goolge.com				# Google^
-||googel.com				# Google^
-||duck.com				# Google^
-||googlee.com				# Google^
-||googil.com				# Google^
-||googlr.com				# Google^
-||googl.com				# Google^
-||gmodules.com			# Google^
-||googleadservices.com	# Google^
-||googleapps.com			# Google Apps for Work^
-||googleapis.com			# Google^
-||goo.gl					# Google URL Shortener^
-||googlebot.com			# Google^
-||googlecommerce.com		# Google^
-||googlesyndication.com	# Google^
-||g.co					# Google^
-||whatbrowser.org			# What Browser?^
-||localhost.com			# Google^
-||withgoogle.com			# Google^
-||1e100.net				# Google Cookies^
-||ggpht.com				# Google Photo^
-||googleusercontent.com	# Google User Content^
-||youtubegaming.com		# YouTube^
-||firehunt.com			# Google^
-||domains.google			# Google Domains^
+||1e100.net       # Google Cookies^
+||466453.com        # Google^
+||abc.xyz^
+||admob.com       # AdMob^
+||adsense.com       # AdSense^
+||adservice.google.com^
+||adwords.com       # AdWords^
+||android.com       # Android^
+||blogger.com       # Blogger^
+||blogspot.com      # Blogger^
+||chrome.com        # Google Chrome^
+||chromebook.com      # Chromebook^
+||chromium.org      # Chromium^
+||cobrasearch.com     # Google^
+||com.google        # elgooG^
+||domains.google      # Google Domains^
+||doubleclick.com     # DoubleClick^
+||feedburner.com      # FeedBurner^
+||firehunt.com      # Google^
+||foofle.com        # Google^
+||froogle.com       # Froogle^
+||g.co          # Google^
+||ggoogle.com       # Google^
+||ggpht.com       # Google Photo^
+||gmail.com       # Gmail^
+||gmodules.com      # Google^
+||gogle.com       # Google^
+||gogole.com        # Google^
+||goo.gl          # Google URL Shortener^
+||googel.com        # Google^
+||googil.com        # Google^
+||googl.com       # Google^
+||google-analytics.com  # Google Analytics^
+||google.net        # Google^
+||google.org        # Google.org^
+||googleadapis.l.google.com^
+||googleadservices.com  # Google^
+||googleanalytics.com   # Google Analytics^
+||googleapis.com      # Google^
+||googleapps.com      # Google Apps for Work^
+||googlearth.com      # Google Earth^
+||googleblog.com^
+||googlebot.com     # Google^
+||googlecode.com      # Google Code^
+||googlecommerce.com    # Google^
+||googledrive.com     # Google Drive^
+||googlee.com       # Google^
+||googleearth.com     # Google Earth^
+||googlegroups.com^
+||googlemail.com      # Gmail^
+||googlemaps.com      # Google Maps^
+||googlepagecreator.com # Google Page Creator^
+||googlescholar.com   # Google Scholar^
+||googlesource.com    # Google Developer Source^
+||googlesyndication.com # Google^
+||googletagmanager.com  # Google Analytics^
+||googletagservices.com^
+||googletranslate.com^
+||googleusercontent.com # Google User Content^
+||googleweblight.com^
+||googlezip.net^
+||googlr.com        # Google^
+||goolge.com        # Google^
+||gooogle.com       # Google^
+||gstatic.com^
+||gstatic.org^
+||gstaticadssl.l.google.com^
+||gv.com^
+||gvt1.com^
+||gvt2.com^
+||gvt3.com^
+||id.google.com^
+||igoogle.com       # iGoogle^
+||imasdk.googleapis.com^
+||keyhole.com       # Keyhole^
+||like.com        # Google^
+||localhost.com     # Google^
+||madewithcode.com    # Made with Code^
+||mail-ads.google.com^
+||metric.gstatic.com^
+||panoramio.com     # Panoramio^
+||picasa.com        # Picasa^
+||pki.google    # Google Certificate Authority^
+||plus.google.com     # Google Plus^
+||plus.l.google.com   # Google Plus^
+||plus.sandbox.google.com # Google Plus^
+||plusone.google.com      # Google Plus^
 ||safebrowsing.googleapis.com^
+||sketchup.com      # SketchUp^
+||urchin.com        # Google Analytics^
+||waze.com        # Waze^
+||whatbrowser.org     # What Browser?^
+||withgoogle.com      # Google^
+||youtu.be        # YouTube^
+||youtube-nocookie.com  # YouTube^
+||youtube.com       # YouTube^
+||youtubeeducation.com  # YouTube^
+||youtubegaming.com   # YouTube^
+||yt.be         # YouTube^
+||ytimg.com       # YouTube^
