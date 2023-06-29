@@ -1,7 +1,10 @@
-name: Makefile CI
+name: Build blocklists
 
 on:
   workflow_dispatch:
+  branches:
+    - trunk
+    - master
 
 jobs:
   build:
