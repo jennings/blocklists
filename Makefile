@@ -7,6 +7,7 @@ OUTDIR := jmdugan-blocklists
 all:
 	mkdir -p $(OUTDIR)
 	curl -L $(REPO) | tar xzv -C $(OUTDIR) \
+			--wildcards \
 			--files-from <(echo "blocklists-master/corporations/*\0blocklists-master/LICENSE") \
 			--strip-components 1
 
